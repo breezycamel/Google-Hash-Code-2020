@@ -16,6 +16,6 @@ I sorted the libraries by an efficiency ratio books per day divided by sign up t
 
 I also used a hash table to keep track of the books that were already sent in.
 
-My solution placed in the 5331 out of 10724 teams.
+My solution placed in the 5331st out of 10724 teams.
 
 I participated in this competition by myself.
